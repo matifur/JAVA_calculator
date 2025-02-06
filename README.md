@@ -20,11 +20,6 @@ Attempting to divide by zero will display "Error: Division by zero"
 
 Installation & Execution
 
-Clone the repository:
-
-git clone https://github.com/yourusername/java-calculator.git
-cd java-calculator
-
 Compile the Java file:
 
 javac lab7/Kalkulator.java
